@@ -1,0 +1,8 @@
+Weekly Expense: $80
+Monthly Expense: $80
+Top 3 Weekly Categories:
+Food: $50
+Transportation: $30
+Top 3 Monthly Categories:
+Food: $50
+Transportation: $30
